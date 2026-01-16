@@ -1,4 +1,4 @@
-module github.com/hugo-themes/toha-example-site
+module github.com/Ms0la/Ms0la.github.io
 
 go 1.25
 
